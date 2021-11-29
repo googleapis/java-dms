@@ -110,8 +110,7 @@ public final class ClouddmsResourcesProto {
     java.lang.String[] descriptorData = {
       "\n"
           + "1google/cloud/clouddms/v1/clouddms_reso"
-          + "urces.proto\022\030google.cloud.clouddms.v1\032\037g"
-          + "oogle/api/field_behavior.proto\032\031google/api/resource.proto\032\036google/protobuf/duration.proto\032\037google/protobuf/timestamp.proto\032\036google/protobuf/wrappers.proto\032\027google/rpc/status.proto\032\034google/api/annotations.proto\"\356\001\n"
+          + "urces.proto\022\030google.cloud.clouddms.v1\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032\036google/protobuf/duration.proto\032\037google/protobuf/timestamp.proto\032\036google/protobuf/wrappers.proto\032\027google/rpc/status.proto\032\034google/api/annotations.proto\"\356\001\n"
           + "\tSslConfig\022>\n"
           + "\004type\030\001"
           + " \001(\0162+.google.cloud.clouddms.v1.SslConfig.SslTypeB\003\340A\003\022\027\n\n"
