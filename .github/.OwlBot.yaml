@@ -27,5 +27,6 @@ deep-copy-regex:
 - source: "/google/cloud/clouddms/(v.*)/.*-java/grpc-google-.*/src"
   dest: "/owl-bot-staging/$1/grpc-google-cloud-dms-$1/src"
 - source: "/google/cloud/clouddms/(v.*)/.*-java/gapic-google-.*/src"
-  dest: "/owl-bot-staging/$1/google-cloud-dms/src"- source: "/google/cloud/clouddms/(v.*)/.*-java/samples/snippets/generated"
+  dest: "/owl-bot-staging/$1/google-cloud-dms/src"
+- source: "/google/cloud/clouddms/(v.*)/.*-java/samples/snippets/generated"
   dest: "/owl-bot-staging/$1/samples/snippets/generated"
